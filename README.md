@@ -2,6 +2,8 @@
 
 _Aplicación que permite listar los pokemones que nos proporciona https://pokeapi.co y posteriomente poder seleccionarlos como favoritos_
 
+Nota: La acción de nombre "getPokemonList" se encuentra envuelta en un setTimeOut con un 1 seg para que se pueda apreciar el efecto de loading de una mejor forma.
+
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
